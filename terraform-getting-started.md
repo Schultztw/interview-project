@@ -84,7 +84,9 @@ Check for any errors. If the initialization was successful, provision the resour
 ```shell
 $ terraform apply
 ```
-*This command may take a few minutes to run. Once it finishes, you will see a message indicating that the resource was created.*
+*The previous command may take a few minutes to run. Once it finishes, you will see a message indicating that the resource was created.*
+
+
 
 Finally, destroy the infrastructure.
 
