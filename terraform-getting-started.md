@@ -98,4 +98,4 @@ Look for a message at the bottom of the output asking for confirmation. Type "ye
 
 ## Next Steps
 
-In this guide, you learned how to download and install Terraform, and how to manually initialize an AWS resource. The next guide will show you [how to run Terraform in automation](https://learn.hashicorp.com/terraform/development/running-terraform-in-automation).
+In this guide, you learned how to download and install Terraform, and how to manually initialize an AWS resource. The next guide will show you [How to Run Terraform in Automation](https://learn.hashicorp.com/terraform/development/running-terraform-in-automation).
