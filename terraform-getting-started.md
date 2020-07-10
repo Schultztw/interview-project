@@ -1,14 +1,14 @@
 # Getting Started with Terraform
 
-##Introduction
+## Introduction
 
 Terraform is the most popular language for defining and provisioning infrastructure as code (IaC). This guide will show you how to install Terraform and use it to provision an AWS resource.
 
 When you finish with this guide, you will have learned to:
 
-1. Download and install Terraform
-2. Create a Terraform configuration
-3. Initialize and provision an AWS resource
+- Download and install Terraform
+- Create a Terraform configuration
+- Initialize and provision an AWS resource
 
 ## Prerequisites
 
@@ -84,8 +84,7 @@ Check for any errors. If the initialization was successful, provision the resour
 ```shell
 $ terraform apply
 ```
-
-This command may take a few minutes to run. Once it finishes, you will see a message indicating that the resource was created.
+*This command may take a few minutes to run. Once it finishes, you will see a message indicating that the resource was created.*
 
 Finally, destroy the infrastructure.
 
