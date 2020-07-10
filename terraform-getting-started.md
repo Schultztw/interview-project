@@ -94,8 +94,8 @@ Finally, destroy the infrastructure.
 $ terraform destroy
 ```
 
-Look for a message at the bottom of the output asking for confirmation. Type `yes` and hit ENTER. Terraform will destroy the resources it had created earlier.
+Look for a message at the bottom of the output asking for confirmation. Type "yes" and hit ENTER. Terraform will destroy the resources it had created earlier.
 
-##Next Steps
+## Next Steps
 
 In this guide, you learned how to download and install Terraform, and how to manually initialize an AWS resource. The next guide will show you [how to run Terraform in automation] (https://learn.hashicorp.com/terraform/development/running-terraform-in-automation).
